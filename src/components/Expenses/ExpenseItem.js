@@ -1,5 +1,5 @@
 // noinspection JSCheckFunctionSignatures
-import React, { useState } from "react";
+import React from "react";
 
 import "./ExpenseItem.css";
 import "./ExpenseDate"
